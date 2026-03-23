@@ -120,7 +120,7 @@ A curated collection of **112 AI prompts** organized by domain. Each prompt is a
 - [Viral Content Ideas](prompts/copywriting/viral-content-ideas.md)
 - [Voice & Tone Guide](prompts/copywriting/voice-tone-guide.md)
 
-### Operations (7)
+### Operations (4)
 
 - [Best Practice Prompt](prompts/operations/best-practice-prompt.md)
 - [Headshot (Gemini)](prompts/operations/headshot-gemini.md)
