@@ -1,7 +1,7 @@
 # Viral Content Outline
 
 **Type:** Instructional  
-**Context:** Regis Hadiaris Media  
+**Context:** [AUTHOR] Media  
 **Category:** Content Ops  
 
 ---

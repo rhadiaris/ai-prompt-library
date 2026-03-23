@@ -1,7 +1,7 @@
 # ACER Framework for Newsletters
 
 **Type:** Instructional  
-**Context:** Regis Hadiaris Media  
+**Context:** [AUTHOR] Media  
 **Category:** Content Ops  
 
 ---

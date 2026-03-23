@@ -1,7 +1,7 @@
 # Thread/Script Draft
 
 **Type:** Instructional  
-**Context:** Regis Hadiaris Media  
+**Context:** [AUTHOR] Media  
 **Category:** Copywriting  
 
 ---

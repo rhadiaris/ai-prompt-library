@@ -17,7 +17,7 @@ No Digital Fonts: All text, headings, and bullet points must appear handwritten 
 
 Layout: Structure the 1080x1350 image as follows:
 Use multi-colored markers for emphasis. Keep text large and legible. Make everything look hand-drawn with slight imperfections. Make it look like a photograph of an actual notebook page.
-Always include the handwritten text “Follow Regis Hadiaris Dot Connector for more helpful content | Repost ♻️” at the bottom of the image, in the same hand-drawn marker style.
+Always include the handwritten text “Follow [AUTHOR] Dot Connector for more helpful content | Repost ♻️” at the bottom of the image, in the same hand-drawn marker style.
 
 Here’s the brief to follow:
 
@@ -70,8 +70,8 @@ YOUR ROADMAP ISN'T READY FOR
 "50 COMPANIES ANALYZED"
 
 [Bottom]
-by Regis Hadiaris
-Dot Connector Dispatch
+by [AUTHOR]
+[NEWSLETTER_NAME]
 ```
 
 **Design notes:**
@@ -373,8 +373,8 @@ ADDRESS.
 Full breakdown + frameworks →
 Link in comments
 
-Regis Hadiaris
-Dot Connector Dispatch
+[AUTHOR]
+[NEWSLETTER_NAME]
 dotconnectordispatch.com
 ```
 

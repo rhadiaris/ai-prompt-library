@@ -11,7 +11,7 @@ Task: Revise this article to be optimized for answer engines
 
 
 
-Context: See "Answer Engine Optimization (AEO) for Dot Connector Dispatch on Substack" in Weekly Content Creation project files
+Context: See "Answer Engine Optimization (AEO) for [NEWSLETTER_NAME] on Substack" in Weekly Content Creation project files
 
 
 

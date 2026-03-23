@@ -1,7 +1,7 @@
 # Top Viral Picks
 
 **Type:** Instructional  
-**Context:** Regis Hadiaris Media  
+**Context:** [AUTHOR] Media  
 **Category:** Content Ops  
 
 ---

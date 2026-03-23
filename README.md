@@ -1,24 +1,24 @@
 # AI Prompt Library
 
-A curated collection of **121 AI prompts** organized by domain. Each prompt is a standalone markdown file ready to paste into ChatGPT, Claude, or any LLM.
+A curated collection of **112 AI prompts** organized by domain. Each prompt is a standalone markdown file ready to paste into ChatGPT, Claude, or any LLM.
 
 ## Folders
 
 | Folder | Prompts | Description |
 |--------|---------|-------------|
-| [`strategy/`](prompts/strategy/) | 34 | Business strategy, frameworks, competitive analysis, vision, and positioning |
-| [`personas/`](prompts/personas/) | 30 | Persona development, ICP creation, and audience segmentation |
+| [`strategy/`](prompts/strategy/) | 33 | Business strategy, frameworks, competitive analysis, vision, and positioning |
+| [`personas/`](prompts/personas/) | 27 | Persona development, ICP creation, and audience segmentation |
 | [`content-ops/`](prompts/content-ops/) | 17 | Newsletters, social media, content calendars, and distribution |
-| [`copywriting/`](prompts/copywriting/) | 14 | Headlines, hooks, voice guides, taglines, and persuasive writing |
-| [`operations/`](prompts/operations/) | 7 | Workflows, templates, CRM, admin, and knowledge management |
+| [`copywriting/`](prompts/copywriting/) | 13 | Headlines, hooks, voice guides, taglines, and persuasive writing |
+| [`operations/`](prompts/operations/) | 4 | Workflows, templates, CRM, admin, and knowledge management |
 | [`research/`](prompts/research/) | 6 | Deep research on companies, people, markets, and platforms |
 | [`ikigai/`](prompts/ikigai/) | 5 | Purpose discovery and life design frameworks |
 | [`revenue-ops/`](prompts/revenue-ops/) | 4 | Revenue modeling, ARR analysis, and monetization strategy |
-| [`sales-gtm/`](prompts/sales-gtm/) | 4 | Sales enablement, biz dev, pricing, funnels, and go-to-market |
+| [`sales-gtm/`](prompts/sales-gtm/) | 3 | Sales enablement, biz dev, pricing, funnels, and go-to-market |
 
 ## Prompt Index
 
-### Strategy (34)
+### Strategy (33)
 
 - [4D Method to Analyze User Input](prompts/strategy/4d-method-to-analyze-user-input.md)
 - [ARR Target Alignment](prompts/strategy/arr-target-alignment.md)
@@ -29,7 +29,6 @@ A curated collection of **121 AI prompts** organized by domain. Each prompt is a
 - [Ambition Extractor](prompts/strategy/ambition-extractor.md)
 - [Assumption Stress-Test](prompts/strategy/assumption-stress-test.md)
 - [Blueprint Invitation](prompts/strategy/blueprint-invitation.md)
-- [CSI](prompts/strategy/csi.md)
 - [Challenge ME](prompts/strategy/challenge-me.md)
 - [Client Instructions](prompts/strategy/client-instructions.md)
 - [Client-Facing Playbook](prompts/strategy/client-facing-playbook.md)
@@ -55,13 +54,12 @@ A curated collection of **121 AI prompts** organized by domain. Each prompt is a
 - [Which KPIs matter most (ARR, churn, client count).](prompts/strategy/which-kpis-matter-most-arr-churn-client-count.md)
 - [Work Rhythm Design](prompts/strategy/work-rhythm-design.md)
 
-### Personas (30)
+### Personas (27)
 
 - [Ambition - Ambition Health Dashboard](prompts/personas/ambition-ambition-health-dashboard.md)
 - [Analyze LinkedIN Profile with Claude](prompts/personas/analyze-linkedin-profile-with-claude.md)
 - [Brand Purpose](prompts/personas/brand-purpose.md)
 - [Create Article](prompts/personas/create-article.md)
-- [Culture](prompts/personas/culture.md)
 - [Deep Research on a Person](prompts/personas/deep-research-on-a-person.md)
 - [ICP Card Creation](prompts/personas/icp-card-creation.md)
 - [ICP Master Prompts](prompts/personas/icp-master-prompts.md)
@@ -75,8 +73,6 @@ A curated collection of **121 AI prompts** organized by domain. Each prompt is a
 - [Persona Drivers](prompts/personas/persona-drivers.md)
 - [Persona Pain/Dream/Blockers](prompts/personas/persona-pain-dream-blockers.md)
 - [Persona-Specific Messaging](prompts/personas/persona-specific-messaging.md)
-- [Personas](prompts/personas/personas.md)
-- [Personas - Define Who You Serve](prompts/personas/personas-define-who-you-serve.md)
 - [Personas - Design the Magnetic Offer](prompts/personas/personas-design-the-magnetic-offer.md)
 - [Personas - Diagnose Their Deepest Tensions](prompts/personas/personas-diagnose-their-deepest-tensions.md)
 - [Personas - Translate Persona Insight Into Product Strategy](prompts/personas/personas-translate-persona-insight-into-product-strategy.md)
@@ -108,7 +104,7 @@ A curated collection of **121 AI prompts** organized by domain. Each prompt is a
 - [Write Paid and Free Newsletter Articles](prompts/content-ops/write-paid-and-free-newsletter-articles.md)
 - [X Tweet Creation from Content Source](prompts/content-ops/x-tweet-creation-from-content-source.md)
 
-### Copywriting (14)
+### Copywriting (13)
 
 - [ACER Framework for Newsletter Offerings](prompts/copywriting/acer-framework-for-newsletter-offerings.md)
 - [Ambition - The 10-Year Vision Clarity Test](prompts/copywriting/ambition-the-10-year-vision-clarity-test.md)
@@ -123,17 +119,13 @@ A curated collection of **121 AI prompts** organized by domain. Each prompt is a
 - [Truth Statement](prompts/copywriting/truth-statement.md)
 - [Viral Content Ideas](prompts/copywriting/viral-content-ideas.md)
 - [Voice & Tone Guide](prompts/copywriting/voice-tone-guide.md)
-- [Voice & Tone Guide](prompts/copywriting/voice-tone-guide-2.md)
 
 ### Operations (7)
 
-- [Airtable CRM-Ready Export](prompts/operations/airtable-crm-ready-export.md)
 - [Best Practice Prompt](prompts/operations/best-practice-prompt.md)
-- [Cover Letter Writer](prompts/operations/cover-letter-writer.md)
 - [Headshot (Gemini)](prompts/operations/headshot-gemini.md)
 - [Import & Segment LinkedIn Network](prompts/operations/import-segment-linkedin-network.md)
 - [Industry Tagging](prompts/operations/industry-tagging.md)
-- [Resume Writer](prompts/operations/resume-writer.md)
 
 ### Research (6)
 
@@ -159,9 +151,8 @@ A curated collection of **121 AI prompts** organized by domain. Each prompt is a
 - [Monetization Strategy Map](prompts/revenue-ops/monetization-strategy-map.md)
 - [Revenue Sensitivity Modeling](prompts/revenue-ops/revenue-sensitivity-modeling.md)
 
-### Sales Gtm (4)
+### Sales Gtm (3)
 
-- [Biz Dev Run CSI to add a company to Clarity Diagnostics in Airtable](prompts/sales-gtm/biz-dev-run-csi-to-add-a-company-to-clarity-diagnostics-in-airtable.md)
 - [Carousel Prep - Part 1](prompts/sales-gtm/carousel-prep-part-1.md)
 - [Landing Page Creator](prompts/sales-gtm/landing-page-creator.md)
 - [Newsletter Pricing & Tiering](prompts/sales-gtm/newsletter-pricing-tiering.md)

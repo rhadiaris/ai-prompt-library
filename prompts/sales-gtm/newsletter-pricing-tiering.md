@@ -1,7 +1,7 @@
 # Newsletter Pricing & Tiering
 
 **Type:** Instructional  
-**Context:** Regis Hadiaris Media  
+**Context:** [AUTHOR] Media  
 **Category:** Sales & GTM  
 
 ---

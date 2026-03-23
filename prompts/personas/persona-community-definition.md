@@ -1,7 +1,7 @@
 # Persona Community Definition
 
 **Type:** Instructional  
-**Context:** Regis Hadiaris Media  
+**Context:** [AUTHOR] Media  
 **Category:** Personas  
 
 ---

@@ -1,7 +1,7 @@
 # Community Lifecycle Funnel
 
 **Type:** Instructional  
-**Context:** Regis Hadiaris Media  
+**Context:** [AUTHOR] Media  
 **Category:** Strategy  
 
 ---
